@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167223849322",
+    "project_id": "redvital-c423a",
+    "storage_bucket": "redvital-c423a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167223849322:android:5da169f9c022e0084e7513",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167223849322-gbia99s2k68bsd7l5nql52u8sqjgu9rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auth",
+            "certificate_hash": "f9f773167c902e62defb8dc49f049d6d2c0d46af"
+          }
+        },
+        {
+          "client_id": "167223849322-ca9agb4spfgt0dm4ipih0ptd75hfciki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUs-QRoOICUCzVxT733e_NXDZsSCGNw3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167223849322-ca9agb4spfgt0dm4ipih0ptd75hfciki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
